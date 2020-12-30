@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/RostockParty\/map.json#Entry1"
+                 "value":"\/RostockParty\/mapoben.json"
                 }],
          "type":"tilelayer",
          "visible":true,
