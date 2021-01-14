@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/RostockParty\/map2.json"
+                 "value":"\/RostockParty\/map2.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,7 +142,7 @@
          "name":"barrier",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":83,
          "x":0,
          "y":0
