@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/RostockParty\/mapoben.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/leonard04-crypo.github.io\/RostockParty\/mapoben.json"
                 }],
          "type":"tilelayer",
          "visible":true,
